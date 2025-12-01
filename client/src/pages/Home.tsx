@@ -28,7 +28,7 @@ const reviews = [
   },
   {
     id: 2,
-    author: "Tainá Sanches",
+    author: "Tainá Sanchez",
     rating: 2,
     date: "31 de agosto de 2025",
     text: "A atualização trouxe algumas melhorias perceptíveis, como maior estabilidade e correções de pequenos bugs. No entanto, ainda notei travamentos ocasionais e lentidão em certas funções. Espero que futuras atualizações tornem o aplicativo ainda mais confiável.",
