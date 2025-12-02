@@ -19,7 +19,7 @@ const COMPANY_CONFIG = {
 const reviews = [
   {
     id: 1,
-    author: "Thiago Almeida",
+    author: "Thiago Andrade",
     rating: 3,
     date: "4 de setembro de 2025",
     text: "O aplicativo ainda apresenta alguns travamentos mas funciona perfeitamente e consegui rastrear meu comodato certinho!",
